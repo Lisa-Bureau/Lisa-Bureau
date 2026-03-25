@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lisa</h1>
 <h3 align="center">A passionate web development student</h3>
 
-- 🌱 I’m currently learning **Back-end**
+- 🌱 I’m currently learning **Java/Angular**
 
 - 📫 How to reach me **bureau.lisa03@gmail.com**
 
